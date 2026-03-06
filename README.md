@@ -1,38 +1,34 @@
-# Hung Nguyen – Cyber Security Lab Projects
+# Malware Analysis Research
 
-Hello! I am Hung Nguyen, an Information Technology student specializing in Network and Cyber Security.  
-This repository contains my personal cybersecurity practice projects, including malware analysis, log monitoring, and penetration testing labs.
+This project contains my academic research on malware analysis and ransomware behavior.  
+The study focuses on understanding how modern malware operates and exploring methods to detect and recover data after ransomware attacks.
 
-## About Me
-- Cyber Security student interested in malware analysis and threat detection
-- Practicing log analysis, network security, and attack detection
-- Building hands-on labs to understand real-world cyber attacks
+## Research Topics
+- Static malware analysis
+- Dynamic malware analysis
+- Ransomware behavior
+- Data recovery techniques after ransomware infection
 
-## Lab Environment
-- VMware
-- Kali Linux
-- Windows
+## Case Studies
+The research includes analysis of several ransomware families such as:
+- TeslaCrypt
+- GandCrab
+- Jigsaw
 
-## Tools & Technologies
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-- ELK Stack
-- Sysmon
+## Tools Used
 - IDA Pro
-- x64dbg
-- Python
+- HxD
+- Procmon
+- Wireshark
+- VirusTotal
+- Sandbox environment (Windows 7)
 
-## Practice Topics
-- Malware analysis (WannaCry, GandCrab, Jigsaw)
-- Windows log analysis using Sysmon and ELK Stack
-- Network scanning and exploitation
-- Web security testing and vulnerability analysis
-
-## Goals
-My goal is to become a Cyber Security Analyst capable of detecting and analyzing cyber threats, malware behavior, and network attacks.
+## Key Objectives
+- Understand malware execution behavior
+- Analyze encryption mechanisms used by ransomware
+- Study recovery techniques for encrypted data
+- Improve practical malware analysis skills
 
 ## Author
-Hung Nguyen  
-Cyber Security Student
+Nguyen Thanh Hung  
+Cybersecurity Student
